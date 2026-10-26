@@ -1,0 +1,7 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="4" fill="#000000"/>
+  <g transform="translate(4, 4)">
+    <!-- LA Monogram - Monochrome -->
+    <path d="M0 20V0L4 0V12L16 0L20 0V20L16 20V8L4 20H0Z" fill="#ffffff"/>
+  </g>
+</svg>
